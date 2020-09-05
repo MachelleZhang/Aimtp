@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name          = 'aimtp'
-    s.version       = '0.0.2'
+    s.version       = '0.0.3'
     s.date          = '2020-08-24'
     s.summary       = '项目模板生成工具'
     s.description   = '项目模板生成工具，可自定义选择需要接入的模块。'
